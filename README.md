@@ -19,3 +19,5 @@ Bu projede, GitHub profillerini görsel bir şölenle sergileyen bir kart tasar�
 - **JavaScript**: Dinamizm ve etkileşim katma
 - **[FontAwesome](https://fontawesome.com/)**: İconlarla estetik dokunuş
 - **[GitHub API](https://api.github.com/users/)**: GitHub kullanıcı verilerini çekme# github-card
+
+  ![](https://github.com/Rasime-Dumlupunar/github-card/blob/main/github%20clone.gif)
