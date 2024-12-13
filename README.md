@@ -2,7 +2,7 @@
 
 **GitHub Kart Projesi**
 
-Bu projede, GitHub profillerini görsel bir şölenle sergileyen bir kart tasarımı oluşturduk. HTML, CSS ve JavaScript'in gücünü kullanarak, kullanıcıların GitHub bilgilerini estetik ve işlevsel bir şekilde sunuyoruz. FontAwesome icon ailesiyle projeye zarafet ve modernlik katıyoruz.
+Bu projede, GitHub profillerini sergileyen bir kart tasarımı oluşturuldu. HTML, CSS ve JavaScript'in gücünü kullanarak, kullanıcıların GitHub bilgilerini estetik ve işlevsel bir şekilde sunuldu. FontAwesome icon ailesiyle projeye modernlik katıyoruz.
 
 ## **Özellikler**
 
