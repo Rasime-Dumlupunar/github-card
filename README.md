@@ -9,7 +9,7 @@ Bu projede, GitHub profillerini görsel bir şölenle sergileyen bir kart tasar�
 - GitHub profillerinin detaylı ve çekici sunumu
 - Tüm cihazlarda kusursuz görünüm sağlayan duyarlı tasarım
 - JavaScript ile interaktif kullanıcı arayüzü
-- GitHub API kullanarak dinamik veri çekimi ([https://api.github.com/users/](https://api.github.com/users/))
+- GitHub API kullanarak dinamik veri çekimi 
 - FontAwesome ikonlarıyla zenginleştirilmiş stil
 
 ## **Kullanılan Teknolojiler**
@@ -18,6 +18,7 @@ Bu projede, GitHub profillerini görsel bir şölenle sergileyen bir kart tasar�
 - **CSS**: Şıklık ve stil kazandırma
 - **JavaScript**: Dinamizm ve etkileşim katma
 - **[FontAwesome]**: İconlarla estetik dokunuş
-- **[GitHub API]**: GitHub kullanıcı verilerini çekme# github-card
+- **[GitHub API]**: GitHub kullanıcı verilerini çekme
+- 
 
   ![](https://github.com/Rasime-Dumlupunar/github-card/blob/main/github%20clone.gif)
