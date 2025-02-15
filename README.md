@@ -20,4 +20,23 @@ Bu projede, GitHub profillerini sergileyen bir kart tasarımı oluşturuldu. HTM
 - **[FontAwesome]**: İconlarla estetik dokunuş
 - **[GitHub API]**: GitHub kullanıcı verilerini çekme
 
+  # GitHub Card Project
+
+In this project, a card design showcasing GitHub profiles was created. Utilizing the power of HTML, CSS, and JavaScript, users' GitHub information is presented in an aesthetic and functional manner. We add a touch of modernity to the project with the FontAwesome icon family.
+
+## Features
+- Detailed and attractive presentation of GitHub profiles
+- Responsive design ensuring flawless appearance on all devices
+- Interactive user interface with JavaScript
+- Dynamic data retrieval using GitHub API
+- Styling enriched with FontAwesome icons
+
+## Technologies Used
+- **HTML**: Structural framework and content organization
+- **CSS**: Adding elegance and style
+- **JavaScript**: Adding dynamism and interaction
+- **[FontAwesome]**: Aesthetic touch with icons
+- **[GitHub API]**: Retrieving GitHub user data
+
+  
   ![](https://github.com/Rasime-Dumlupunar/github-card/blob/main/github%20clone.gif)
